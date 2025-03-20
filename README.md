@@ -34,3 +34,7 @@ The vision for this project is to integrate fitness motivation with blockchain t
 - **User Interaction:** Allows users to track their own fitness goals and receive rewards based on their achievements.
 
 ---
+## Contract Address
+0x9d23E71748F4C15e957479C606276c8e1F6b7603
+![image](https://github.com/user-attachments/assets/ec8aac9d-e74b-4050-9297-1152f39597e9)
+
