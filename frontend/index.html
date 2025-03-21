@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitnessGoalToken Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <h1>FitnessGoalToken Tracker</h1>
+        <div class="wallet-info">
+            <h2>Wallet Address</h2>
+            <p id="wallet-address">Not connected</p>
+        </div>
+
+        <div class="balance-info">
+            <h2>Your Balance</h2>
+            <p id="balance">0</p>
+        </div>
+
+        <div class="goal-info">
+            <h2>Your Fitness Goal</h2>
+            <p id="goal">Not set</p>
+        </div>
+
+        <div class="goal-actions">
+            <h3>Set or Track Fitness Goal</h3>
+            <input type="number" id="goal-input" placeholder="Enter fitness goal in units">
+            <button id="set-goal-btn">Set Goal</button>
+            <button id="track-goal-btn">Track Achievement</button>
+        </div>
+
+        <div class="transaction-actions">
+            <h3>Transfer Tokens</h3>
+            <input type="text" id="recipient" placeholder="Recipient Address">
+            <input type="number" id="amount" placeholder="Amount to transfer">
+            <button id="transfer-btn">Transfer Tokens</button>
+        </div>
+
+        <div class="footer">
+            <p>Powered by FitnessGoalToken</p>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/web3/dist/web3.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
