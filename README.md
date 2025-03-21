@@ -38,3 +38,8 @@ The vision for this project is to integrate fitness motivation with blockchain t
 0x9d23E71748F4C15e957479C606276c8e1F6b7603
 ![image](https://github.com/user-attachments/assets/ec8aac9d-e74b-4050-9297-1152f39597e9)
 
+## frontend
+
+![image](https://github.com/user-attachments/assets/67c281d2-8abf-45b2-948b-4a37ca4fb61b)
+
+
